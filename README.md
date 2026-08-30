@@ -1,6 +1,6 @@
 # Capstone Project
 
-# initialize npm
+* initialize npm
   npm init -y
 
 # Backend set up
@@ -16,32 +16,15 @@
   npm i cors
   npm i -D @types/cors
 
-# initialized tsconfig.json
+* initialized tsconfig.json
   npx tsc --init
 
-# verify tailwind version
+* verify tailwind version
   npx tsc -v
 
-# entry file
+* entry file
   app.ts
 
-# main file
-  server.ts
-
-# run project with 
-  npm run dev
-
-# PORT
-  4000
-
-# NODE_ENV
- development
-
-# src folder
-  config
-  lib
-  middleware
-  routes
 
 
  
