@@ -8,5 +8,5 @@ import { logger } from "./lib/logger.ts";
 const app = createApp();
 
 app.listen(env.PORT, () => {
-  logger.info(`Server is now running on port http:localhost:${env.PORT}`)
+  logger.info(`Server is now running on port http://localhost:${env.PORT}`)
 })
