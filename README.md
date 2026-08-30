@@ -4,7 +4,7 @@
   npm init -y
 
 # Backend set up
-  Installed packages
+  * Installed packages
   npm install -D typescript @^6.0.0
   npm install -D tsx@4.23.0 
   npm install -D @types/node
